@@ -41,4 +41,4 @@ About me
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=will009&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wgarciar3&show_icons=true&theme=radical)
