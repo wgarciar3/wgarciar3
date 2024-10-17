@@ -1,6 +1,6 @@
 Hey! I am William Alejandro García Rivera
-Senior Developer 
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+## Senior Developer 
+## ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 ---
 
 About me
@@ -21,12 +21,14 @@ About me
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=.net&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
 
----
+
 
 ## GitHub Stats
 
