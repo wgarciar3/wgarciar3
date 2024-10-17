@@ -1,6 +1,6 @@
 Hey! I am William Alejandro García Rivera
 Senior Developer 
-
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 ---
 
 About me
