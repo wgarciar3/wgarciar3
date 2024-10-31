@@ -11,7 +11,7 @@ quien soy?
 💼 Experiencia: Desarrollo, arquitectura de sistemas y optimización de software  
 💡 Dato curioso: Disfruto la emoción de resolver problemas complejos y liderar equipos hacia el éxito  
 
-## Programo en:
+## Tecnologías y Herramientas:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
