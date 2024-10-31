@@ -3,17 +3,17 @@ Hey! I am William Alejandro García Rivera
 ## ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 ---
 
-About me
+quien soy?
 
-🚀 Transforming ideas into scalable and efficient code for over a decade  
-🌱 Lifelong learner with a passion for staying ahead of tech trends  
-🎯 Mission: Craft high-performance, maintainable systems that deliver impact  
-💼 Expertise: Full-stack development, system architecture, and software optimization  
-💡 Fun fact: I thrive in the thrill of solving complex problems and leading teams to success  
+🚀 Transformando ideas en código escalable y eficiente con más de 10 años de experiencia
+🌱 Aprendiz de por vida con pasión por mantenerse al día con las tendencias tecnológicas
+🎯 Misión: Crear sistemas de alto rendimiento y fácil mantenimiento que generen impacto
+💼 Experiencia: Desarrollo, arquitectura de sistemas y optimización de software
+💡 Dato curioso: Disfruto la emoción de resolver problemas complejos y liderar equipos hacia el éxito
 
 ---
 
-## I code with
+## Programo en:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
@@ -39,6 +39,7 @@ About me
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)
 
 
-## GitHub Stats
+## GitHub Estadisticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wgarciar3&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wgarciar3&show_icons=true&theme=radical&title_color=ff79c6&icon_color=ffd700&text_color=ffffff&bg_color=282a36)
+
