@@ -5,13 +5,11 @@ Hey! I am William Alejandro García Rivera
 
 quien soy?
 
-🚀 Transformando ideas en código escalable y eficiente con más de 10 años de experiencia
-🌱 Aprendiz de por vida con pasión por mantenerse al día con las tendencias tecnológicas
-🎯 Misión: Crear sistemas de alto rendimiento y fácil mantenimiento que generen impacto
-💼 Experiencia: Desarrollo, arquitectura de sistemas y optimización de software
-💡 Dato curioso: Disfruto la emoción de resolver problemas complejos y liderar equipos hacia el éxito
-
----
+🚀 Transformando ideas en código escalable y eficiente con más de 10 años de experiencia  
+🌱 Aprendiz de por vida con pasión por mantenerse al día con las tendencias tecnológicas  
+🎯 Misión: Crear sistemas de alto rendimiento y fácil mantenimiento que generen impacto  
+💼 Experiencia: Desarrollo, arquitectura de sistemas y optimización de software  
+💡 Dato curioso: Disfruto la emoción de resolver problemas complejos y liderar equipos hacia el éxito  
 
 ## Programo en:
 
