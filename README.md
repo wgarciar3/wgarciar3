@@ -42,8 +42,3 @@ quien soy?
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wgarciar3&show_icons=true&theme=radical&title_color=ff79c6&icon_color=ffd700&text_color=ffffff&bg_color=282a36)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wgarciar3&theme=radical)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=wgarciar3&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wgarciar3&layout=compact&theme=radical)
-
-
-
-
