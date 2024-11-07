@@ -54,7 +54,6 @@ quien soy?
 ### DevOps y Herramientas de Desarrollo
 - ![SonarCloud](https://img.shields.io/badge/-SonarCloud-F3702A?logo=sonarcloud&logoColor=white&style=flat)
 - ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white&style=flat)
-- ![SonarCloud](https://img.shields.io/badge/-SonarCloud-F3702A?logo=sonarcloud&logoColor=white&style=flat)
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 - ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)
 ---
