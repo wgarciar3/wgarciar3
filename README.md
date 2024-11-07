@@ -12,7 +12,7 @@ quien soy?
 💡 Dato curioso: Disfruto la emoción de resolver problemas complejos y liderar equipos hacia el éxito  
 
 ## Tecnologías y Herramientas:
----
+
 ### Desarrollo y Programación
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
@@ -52,6 +52,7 @@ quien soy?
 - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ---
 ### DevOps y Herramientas de Desarrollo
+- ![SonarCloud](https://img.shields.io/badge/-SonarCloud-F3702A?logo=sonarcloud&logoColor=white&style=flat)
 - ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white&style=flat)
 - ![SonarCloud](https://img.shields.io/badge/-SonarCloud-F3702A?logo=sonarcloud&logoColor=white&style=flat)
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
