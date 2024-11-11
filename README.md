@@ -3,8 +3,6 @@
 ## ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 ---
 
-quien soy?
-
 🚀 Transformando ideas en código escalable y eficiente con más de 10 años de experiencia  
 🌱 Aprendiz de por vida con pasión por mantenerse al día con las tendencias tecnológicas  
 🎯 Misión: Crear sistemas de alto rendimiento y fácil mantenimiento que generen impacto  
