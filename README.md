@@ -66,8 +66,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wgarciar3&show_icons=true&theme=github_dark&title_color=00b5d8&icon_color=ffdd00&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub stats" width="48%">
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgarciar3&layout=compact&cache_seconds=86400&theme=github_dark&bg_color=0d1117&title_color=00b5d8&text_color=c9d1d9" alt="Top Languages" width="48%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgarciar3&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00b5d8&text_color=c9d1d9&cache_seconds=86400&token=" alt="Top Languages" width="48%">
 </div>
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wgarciar3&theme=github_dark&bg_color=0d1117&color=c9d1d9&line=00b5d8&point=ffdd00&area=true" alt="GitHub Activity Graph" width="98%">
