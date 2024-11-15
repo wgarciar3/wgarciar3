@@ -72,8 +72,6 @@
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wgarciar3&theme=github_dark&bg_color=0d1117&color=c9d1d9&line=00b5d8&point=ffdd00&area=true" alt="GitHub Activity Graph" width="98%">
 </div>
-
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wgarciar3&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/wgarciar3)
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wgarciar3)](https://github.com/anuraghazra/github-readme-stats)
 
 
