@@ -41,6 +41,9 @@
 - ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 - ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat)
 ---
+### Tecnologías Educativas
+- ![Moodle](https://img.shields.io/badge/-Moodle-F98012?logo=moodle&logoColor=white&style=flat)
+---
 ### Control de Versiones
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
