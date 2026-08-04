@@ -21,10 +21,24 @@
 - ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=.net&logoColor=white&style=flat)
 - ![Visual Basic .NET](https://img.shields.io/badge/-Visual%20Basic%20.NET-68217A?logo=.net&logoColor=white&style=flat)
 - ![.NET 6](https://img.shields.io/badge/-.NET%206-512BD4?logo=.net&logoColor=white&style=flat)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
+---
+### Frameworks y Librerías
+- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ---
 ### Entornos y Editores de Código
 - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)
 - ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+- ![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=flat)
+- ![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?logo=&logoColor=white&style=flat)
+- ![Termius](https://img.shields.io/badge/-Termius-000000?logo=termius&logoColor=white&style=flat)
+- ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white&style=flat)
+- ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?logo=anthropic&logoColor=white&style=flat)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ---
 ### Bases de Datos
@@ -33,13 +47,36 @@
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 - ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat)
 - ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
+- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 ---
 ### Infraestructura y Servicios en la Nube
 - ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white&style=flat)
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 - ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 - ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
+- ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-F80000?logo=oracle&logoColor=white&style=flat)
+- ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat)
 - ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat)
+- ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=flat)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+---
+### Redes e Infraestructura
+- ![pfSense](https://img.shields.io/badge/-pfSense-212121?logo=pfsense&logoColor=white&style=flat)
+- ![MikroTik](https://img.shields.io/badge/-MikroTik-293239?logo=mikrotik&logoColor=white&style=flat)
+- ![UniFi](https://img.shields.io/badge/-UniFi-0559C9?logo=ubiquiti&logoColor=white&style=flat)
+- ![Reyee](https://img.shields.io/badge/-Reyee-E60012?logo=&logoColor=white&style=flat)
+- ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?logo=wireguard&logoColor=white&style=flat)
+- ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?logo=tailscale&logoColor=white&style=flat)
+---
+### Ciberseguridad
+- ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=flat)
+- ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?logo=&logoColor=white&style=flat)
+- ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
+- ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?logo=metasploit&logoColor=white&style=flat)
+- ![Nessus](https://img.shields.io/badge/-Nessus-00A98F?logo=&logoColor=white&style=flat)
+- ![Hashcat](https://img.shields.io/badge/-Hashcat-5A5A5A?logo=&logoColor=white&style=flat)
+- ![Ettercap](https://img.shields.io/badge/-Ettercap-A80030?logo=ettercap&logoColor=white&style=flat)
+- ![GNS3](https://img.shields.io/badge/-GNS3-00A99D?logo=gns3&logoColor=white&style=flat)
 ---
 ### Tecnologías Educativas
 - ![Moodle](https://img.shields.io/badge/-Moodle-F98012?logo=moodle&logoColor=white&style=flat)
@@ -61,18 +98,12 @@
 ### Sistemas Operativos y Plataformas
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
+- ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat)
 ---
 ### BI y Herramientas de Análisis
 - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat)
 --- 
 ## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wgarciar3&show_icons=true&theme=github_dark&title_color=00b5d8&icon_color=ffdd00&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub stats" width="48%">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgarciar3&layout=compact&theme=github_dark&title_color=00b5d8&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%">
-</div>
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wgarciar3&theme=github_dark&bg_color=0d1117&color=c9d1d9&line=00b5d8&point=ffdd00&area=true" alt="GitHub Activity Graph" width="98%">
 </div>
-
